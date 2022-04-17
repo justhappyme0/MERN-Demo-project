@@ -1,10 +1,12 @@
 # MERN-Demo-project
-react and mongo
-Steps :
+Mongo, Express, React and Node
+
+# Steps :
 1. extract the folders
 2.  open this in VS code editor
 3.  do - npm install inside each folders : frontend and backend, 
-pre-requisite, should have mongo, node and npm installed on the system (download from internet)
+
+# pre-requisite : should have mongo, node and npm installed on the system (download from internet)
 -frontend cmd : npm start  
 -backend cmd : node route.js (inside the routes folder and execute this cmd)
 
